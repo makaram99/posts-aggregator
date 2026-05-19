@@ -1,0 +1,9 @@
+# Sensitive credentials and sessions
+.env
+*.session
+*.session-journal
+
+# Python environment and cache
+venv/
+__pycache__/
+*.pyc
